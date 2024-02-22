@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @arianaraste
-- 👀 I’m interested in learnin programing
-- 🌱 I’m currently learning nodejs - backend - nestjs
-- 💞️ I’m looking to collaborate on remote working
-- 📫 How to reach me aryan.araste@gmail.com
+about me = {
+  name : "Arian Araste",
+  Date of birth : "2002-11-8",
+  location : "IR-TEH"
+  Role : "Backend Devloper"
+  skills : [js , ts , nodejs , expressjs , mongodb],
+  team : arsify 
+}
 
 <!---
 arianaraste/arianaraste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
